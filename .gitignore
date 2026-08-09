@@ -1,0 +1,25 @@
+# Entorno virtual
+.venv/
+venv/
+ENV/
+env/
+
+# Python / PyTorch
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE & Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
